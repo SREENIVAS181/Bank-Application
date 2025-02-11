@@ -35,10 +35,10 @@ After successful login, users can access the following features:
    * Install [Apache Tomacat](https://tomcat.apache.org/download-90.cgi)
    * Install [MySQL](https://dev.mysql.com/downloads/installer/)
 2. Database Configuration
-   * Create a MySQL database name  bankapplicationdb 
+   * Create a MySQL database name  bankapplication
    * Import the provided SQL script to set up the tables
 3. Project Setup
-   * Clone the repository:  git clone <https://github.com/vamshiashok/Bank-Application.git> 
+   * Clone the repository:  git clone <https://github.com/SREENIVAS181/Bank-Application.git> 
    * Import the project into your favorite IDE(Eg: Eclipse)
    * Configure the project with the Tomcat server.
 4. Run the Application
@@ -54,4 +54,4 @@ After successful login, users can access the following features:
 ### Screenshots
 ##
 ### Contact
-For any queries or feedback, please contact [Dasari Vamshi](mailto:vamshiashok963@gmail.com)
+For any queries or feedback, please contact [Sreenivasulu Paseddula](mailto:arjunsreenivas181@gmail.com)
