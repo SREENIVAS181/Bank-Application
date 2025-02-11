@@ -1,0 +1,240 @@
+@charset "UTF-8";
+
+#mainpage {
+	margin-top: -20px;
+	margin-bottom: -20px;
+	margin-left: -20px;
+	width: 650px;
+	background-color: white;
+	height: 580px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#main {
+	height: 180px;
+	width: 300px;
+	border: 10px solid black;
+	text-align: center;
+	background-color: white;
+	border-radius: 20px;
+	border-color: black;
+}
+
+#main:hover {
+	zoom: 105%;
+}
+
+#mainpage header {
+	color: black;
+	font-size: 20px;
+}
+
+#home {
+	border: 10px solid black;
+	height: 400px;
+	width: 500px;
+	text-align: center;
+	border-radius: 20px;
+	border-color: black;
+}
+
+#home header {
+	color: black;
+	font-size: 30px;
+	margin-top: 10px;
+}
+
+#login {
+	border: 10px solid black;
+	height: 300px;
+	width: 400px;
+	text-align: center;
+	border-radius: 20px;
+	border-color: black;
+	overflow: visible;
+}
+
+#login header {
+	color: black;
+	font-size: 30px;
+	margin-top: 30px;
+}
+
+#balance {
+	border: 10px solid black;
+	height: 50px;
+	width: 250px;
+	color: white;
+	padding-top:28px;
+	text-align: center;
+	border-radius: 20px;
+	border-color: black;
+	background-color: #2b0057; 
+	overflow: visible;
+}
+	
+#changepwd { border : solid black;
+	height: 250px;
+	width: 400px;
+	text-align: center;
+	border-radius: 20px;
+	border-color: black;
+	overflow: visible;
+}
+
+#pwdsuc {
+	border: 10px solid black;
+	height:300px;
+	width: 400px;
+	text-align: center;
+	padding:10px;
+	border-radius: 20px;
+	overflow: visible;
+}
+
+#pwdfail {
+	border: 10px solid black;
+	height:300px;
+	width: 400px;
+	text-align: center;
+	border-radius: 20px;
+	border-color: black;
+	overflow: visible;
+}
+
+#transfer {
+	border: 10px solid black;
+	height: 250px;
+	width: 500px;
+	text-align: center;
+	border-radius: 20px;
+	border-color: black;
+	overflow: visible;
+}
+
+#trasuc {
+	border: 10px solid black;
+	height: 250px;
+	width: 300px;
+	text-align: center;
+	border-radius: 20px;
+	border-color: black;
+	overflow: visible;
+}
+
+#loan {
+	border: 10px solid black;
+	height: 350px;
+	width: 500px;
+	text-align: center;
+	border-radius: 20px;
+	overflow: visible;
+}
+
+#loansuc{
+	border: 10px solid black;
+	height: 130px;
+	width: 400px;
+	text-align: center;
+	border-radius: 20px;
+	padding:10px;
+	overflow: visible;
+}
+
+#statesuc{
+	border: 10px solid black;
+	height: 130px;
+	width: 500px;
+	padding:10px;
+	text-align: center;
+	border-radius: 20px;
+	overflow: visible;
+}
+
+#reg{
+	border: 10px solid black;
+	height: 450px;
+	width: 500px;
+	padding:10px;
+	text-align: center;
+	border-radius: 20px;
+	padding-top:20px;
+	overflow: visible;
+}
+
+#regsuc{
+	border: 10px solid black;
+	height: 320px;
+	width: 400px;
+	padding:10px;
+	text-align: center;
+	border-radius: 20px;
+	padding-top:20px;
+	overflow: visible;
+}
+
+#ForPas{
+	border: 10px solid black;
+	height: 100px;
+	width: 180px;
+	padding:10px;
+	text-align: center;
+	border-radius: 20px;
+	padding-top:20px;
+	overflow: visible;
+}
+
+#loginfail{
+	border: 10px solid black;
+	height: 230px;
+	width: 250px;
+	padding:15px;
+	text-align: center;
+	border-radius: 20px;
+	overflow: visible;
+}
+#sec_que{
+	border: 10px solid black;
+	height: 150px;
+	width: 180px;
+	overflow: visible;
+	padding:10px;
+	text-align: center;
+	border-radius: 20px;
+	padding-top:20px;
+	overflow: visible;
+}
+
+#incorrect{
+	border: 10px solid black;
+	height: 150px;
+	width: 180px;
+	overflow: visible;
+	padding:10px;
+	text-align: center;
+	border-radius: 20px;
+	padding-top:20px;
+	overflow: visible;
+}
+
+#transfail{
+	border: 10px solid black;
+	height: 150px;
+	width: 250px;
+	padding:15px;
+	text-align: center;
+	border-radius: 20px;
+	overflow: visible;
+}
+
+#statemnetfail{
+	border: 10px solid black;
+	height: 300px;
+	width: 250px;
+	padding:15px;
+	text-align: center;
+	border-radius: 20px;
+	overflow: visible;
+}
